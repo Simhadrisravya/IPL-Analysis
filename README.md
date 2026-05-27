@@ -36,7 +36,7 @@ trajectories across the top 6 IPL teams.
 
 \## 📊 Visualization
 
-!\[Season-wise Win % Trend](images/season\_win\_trend.png)
+![Season-wise Win % Trend](https://github.com/Simhadrisravya/IPL-Analysis/blob/main/images/season_win_trend.png?raw=true)
 
 
 
